@@ -39,7 +39,7 @@ One toolkit for Metin2 servers and mods. Start your own server, add features wit
 
 m2kit is free to use. If it helps you, you can buy us a coffee to help.
 
-<a href="https://buycoffee.to/m2kit" target="_blank"><img src="https://buycoffee.to/static/img/share/share-button-primary--pl.png" style="width: 146px; height: 38px" alt="Postaw kawę dla m2kit na buycoffee.to"></a>
+<a href="https://buycoffee.to/m2kit" target="_blank"><img src="https://buycoffee.to/static/img/share/share-button-primary--en.png" style="width: 169px; height: 38px" alt="Buy a coffee for m2kit at buycoffee.to"></a>
 
 ## Author and contributors
 
