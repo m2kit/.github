@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="m2kit demo coming soon">
+  <rect width="1280" height="720" rx="24" fill="#1a1815"/>
+  <path d="M24 0h1232a24 24 0 0 1 24 24v40H0V24A24 24 0 0 1 24 0z" fill="#2a2621"/>
+  <circle cx="44" cy="32" r="8" fill="#cc3526"/>
+  <circle cx="72" cy="32" r="8" fill="#4a453e"/>
+  <circle cx="100" cy="32" r="8" fill="#4a453e"/>
+  <circle cx="640" cy="330" r="76" fill="#cc3526"/>
+  <path d="M614 288v84l68-42z" fill="#f5f3ef"/>
+  <text x="640" y="480" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="600" fill="#f5f3ef">Demo coming soon</text>
+</svg>

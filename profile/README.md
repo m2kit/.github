@@ -1,23 +1,51 @@
-# m2kit
+<a href="https://m2kit.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m2kit/.github/HEAD/profile/assets/m2kit-readme-dark-theme.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m2kit/.github/HEAD/profile/assets/m2kit-readme-light-theme.svg">
+    <img alt="m2kit, the open devkit for Metin2" src="https://raw.githubusercontent.com/m2kit/.github/HEAD/profile/assets/m2kit-readme-light-theme.svg" width="640">
+  </picture>
+</a>
 
-An open devkit for the Metin2 community.
+One toolkit for Metin2 servers and mods. Start your own server, add features with mods you switch on and off in one click, and share your work with the community. No C++ required, no FreeBSD, and no more digging through old forums for code that may or may not work.
 
-Run your own server, manage it from a browser, write mods once and
-share them. One toolkit for the server, the client, the admin panel
-and the mods, so nobody has to dig through old forums for code that
-may or may not work.
+[**Get started**](https://github.com/m2kit/devkit) · [Website](https://m2kit.dev) · [Discord](https://discord.gg/hcMnCXTGnV) · [Support](https://buycoffee.to/m2kit)
 
-**Status:** early development. The devkit is being rebuilt around a
-mod API and a command-line tool. The code goes public with the first
-release.
+<!-- TODO: replace this placeholder with the demo GIF or short video. -->
+<img alt="m2kit demo coming soon" src="https://raw.githubusercontent.com/m2kit/.github/HEAD/profile/assets/demo-placeholder.svg" width="640">
 
-## What is coming
+```sh
+git clone https://github.com/m2kit/devkit.git
+cd devkit
+./m2kit init
+m2kit server up
+m2kit client run
+```
 
-- `devkit`, one command to build, test, run and package
-- a mod API with hooks on both sides
-- an admin panel for people who do not read code
-- a mod library with one-click install and compatibility checks
+## Why m2kit
+
+✅ **Mods in one click.** Switch any mod on or off with one click or one command. Your game code stays untouched.<br>
+✅ **Bugs fixed, game modernized.** Get a 64-bit client on DirectX 9, many languages, offline shops and more.<br>
+✅ **A community mod catalog.** Find mods and share your own.<br>
+✅ **The same build on every machine.** The server and the client compile in prepared Docker images, so "it works on my machine" stops being a problem.<br>
+✅ **No experience needed.** Start without Linux or C++ knowledge. Add items, monsters, drops and more with JSON, and new game logic with Lua 5.4.<br>
+✅ **Safe by default.** Lua mods run in isolation, and unsigned packs with other code are blocked until you trust them.<br>
+✅ **Built for big projects.** Detailed documentation, developer tools, migrations, seeders, backups and tests keep your project under control.<br>
+✅ **A panel in your browser.** Connect to panel.m2kit.dev to manage your servers.
+
+## Who it is for
+
+🖥️ **Server owners** who want to build, run and update a server from one place.<br>
+🧩 **Mod authors** who want to write a mod once and share it.<br>
+🛠️ **Core developers** who want to improve the server and the client.
+
+## Author and contributors
+
+Created by [@kwiatu-dev](https://github.com/kwiatu-dev), with help from [our contributors](https://github.com/m2kit/devkit/graphs/contributors).
 
 ## Get in touch
 
-contact@m2kit.dev · https://m2kit.dev
+[contact@m2kit.dev](mailto:contact@m2kit.dev) · [m2kit.dev](https://m2kit.dev) · [Discord](https://discord.gg/hcMnCXTGnV)
+
+---
+
+m2kit is an independent community project. It is not affiliated with or endorsed by the owners or publishers of Metin2.
