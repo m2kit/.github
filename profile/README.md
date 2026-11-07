@@ -13,14 +13,6 @@ One toolkit for Metin2 servers and mods. Start your own server, add features wit
 [![Discord](https://img.shields.io/badge/Discord-Join_the_community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hcMnCXTGnV)
 [![BuyCoffee](https://img.shields.io/badge/BuyCoffee-Support_the_project-FF813F?style=for-the-badge&logo=coffeescript&logoColor=white)](https://buycoffee.to/m2kit)
 
-```sh
-git clone https://github.com/m2kit/devkit.git
-cd devkit
-./m2kit init
-m2kit server up
-m2kit client run
-```
-
 <!-- TODO: replace this placeholder with the demo GIF or short video. -->
 <img alt="m2kit demo coming soon" src="https://raw.githubusercontent.com/m2kit/.github/HEAD/profile/assets/demo-placeholder.svg" width="640">
 
