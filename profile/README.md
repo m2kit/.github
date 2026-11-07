@@ -27,7 +27,7 @@ One toolkit for Metin2 servers and mods. Start your own server, add features wit
 - **No experience needed.** Start without Linux or C++ knowledge. Add items, monsters, drops and more with JSON, and new game logic with Lua 5.4.
 - **Safe by default.** Lua mods run in isolation, and unsigned packs with other code are blocked until you trust them.
 - **Built for big projects.** Detailed documentation, developer tools, migrations, seeders, backups and tests keep your project under control.
-- **A panel in your browser.** Connect to panel.m2kit.dev to manage your servers.
+- **A panel in your browser.** Connect to [panel.m2kit.dev](https://panel.m2kit.dev) to manage your servers.
 
 ## Who it is for
 
