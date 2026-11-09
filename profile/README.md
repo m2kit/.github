@@ -8,7 +8,7 @@
 
 One toolkit for Metin2 servers and mods. Start your own server, add features with mods you switch on and off in one click, and share your work with the community. No C++ required, no FreeBSD, and no more digging through old forums for code that may or may not work.
 
-[![Get started](https://img.shields.io/badge/Get_started-m2kit%2Fdevkit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m2kit/devkit)
+[![Get started](https://img.shields.io/badge/Get_started-m2kit%2Fm2kit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m2kit/m2kit)
 [![Website](https://img.shields.io/badge/Website-m2kit.dev-CC3526?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://m2kit.dev)
 [![Discord](https://img.shields.io/badge/Discord-Join_the_community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hcMnCXTGnV)
 [![BuyCoffee](https://img.shields.io/badge/BuyCoffee-Support_the_project-FF813F?style=for-the-badge&logo=coffeescript&logoColor=white)](https://buycoffee.to/m2kit)
@@ -43,7 +43,7 @@ m2kit is free to use. If it helps you, you can buy us a coffee to help.
 
 ## Author and contributors
 
-Created by [@kwiatu-dev](https://github.com/kwiatu-dev), with help from [our contributors](https://github.com/m2kit/devkit/graphs/contributors).
+Created by [@kwiatu-dev](https://github.com/kwiatu-dev), with help from [our contributors](https://github.com/m2kit/m2kit/graphs/contributors).
 
 ## Get in touch
 
